@@ -1,0 +1,33 @@
+
+body{
+    background-color:rgb(41, 41, 41);
+}
+h1{
+    color:violet;
+}
+h2 ,h3{
+    color:aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+table{
+    color: white;
+}
+img{
+padding-right: 35px;        
+}
+p{
+    color: white;
+}
+button, #submit{
+    padding: 0.5rem 1rem;
+    background-color: aquamarine;
+    border-radius: 0.3rem;
+    font-weight: 600;
+    font-size: 1rem;
+    color: rgb(41, 41, 41);
+    cursor: pointer;
+}
+label{
+    color: white;
+}
